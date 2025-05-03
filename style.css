@@ -1,3 +1,7 @@
-:host{
-    background-color: red;
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    color: black;
+    margin: 0;
+    padding: 0;
 }
